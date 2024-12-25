@@ -1,0 +1,5 @@
+.terraform/
+*.exe
+*.tfstate
+terraform-aks/.terraform/providers/registry.terraform.io/hashicorp/azurerm/4.14.0/windows_386/terraform-provider-azurerm_v4.14.0_x5.exe
+terraform-aks/
